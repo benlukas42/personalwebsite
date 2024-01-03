@@ -41,3 +41,11 @@ Startup is 100% free and open-source, feel free to use with your personal and co
 If you like the template, please star this repository to inspire the team to create more stuff like this and reach more users like you!
 
 ### ✨ Explore and Download - Free [Next.js Templates](https://nextjstemplates.com)
+
+-----------------------------------------------------------------------------------------------------
+## Added by me:
+To run the site locally, run "npm run dev"
+
+To push a build of the site to Vercel and see it running on the internet, run "git push origin main"
+
+The site is at benlukas.xyz
