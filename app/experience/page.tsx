@@ -6,7 +6,7 @@ import { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "About Page | Free Next.js Template for Startup and SaaS",
-  description: "This is About Page for Startup Nextjs Template",
+  description: "This is About Ben Lukas and his experience in Computer Science",
   // other metadata
 };
 
@@ -14,9 +14,13 @@ const AboutPage = () => {
   return (
     <>
       <Breadcrumb
-        pageName="About me"
-        description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. In varius eros eget sapien consectetur ultrices. Ut quis dapibus libero."
+        pageName="Experience"
+        description="Here is a synopsis of my experience in college and in my internship."
       />
+      <div className="items-center">
+        <hr className="w-full border-slate-700"></hr>
+      </div>
+      
       <AboutSectionOne />
       <AboutSectionTwo />
     </>

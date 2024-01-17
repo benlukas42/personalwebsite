@@ -8,6 +8,12 @@ const nextConfig = {
         hostname: "cdn.sanity.io",
         port: "",
       },
+      {
+        protocol: "https",
+        hostname: "brand.wisc.edu",
+        port: "",
+        pathname: "/content/uploads/2016/11/readability-04.jpg",
+      },
     ],
   },
 };
