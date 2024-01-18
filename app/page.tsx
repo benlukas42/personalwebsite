@@ -12,7 +12,7 @@ import Video from "@/components/Video";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Ben's Website",
+  title: "Ben's Personal Website",
   description: "Homepage for my website",
   // other metadata
 };
