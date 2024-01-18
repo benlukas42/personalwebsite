@@ -33,7 +33,7 @@ const AboutSectionTwo = () => {
                 paragraph=""
                 mb="14px"
               />
-                <p className="text-base font-medium leading-relaxed text-body-color mb-4 sm:text-lg sm:leading-relaxed">
+                <p className="text-base leading-relaxed text-body-color mb-4 sm:text-lg sm:leading-relaxed">
                   I have been an intern for the
                   <a href="https://www.spacescience.org/index.php" target="_blank" title="Space Science Institute Home Page" className="text-blue-500 hover:underline font-bold"> Space Science Institute </a>
                    since the summer of 2023.
@@ -42,14 +42,14 @@ const AboutSectionTwo = () => {
                 <h3 className="text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
                   Mars in Virtual Reality
                 </h3>
-                <p className="text-base font-medium leading-relaxed text-body-color mb-2 sm:text-lg sm:leading-relaxed">
+                <p className="text-base leading-relaxed text-body-color mb-2 sm:text-lg sm:leading-relaxed">
                   In my internship, I explored the modern landscape of VR development for a browser. Using tools such as Spatial, Unity, Blender, and AFrame, I learned to make VR scenes out of scans of real Martian land and materials.
                 </p>
                 <h3 className="text-m font-bold text-black mb-2 dark:text-white sm:text-l sm:leading-relaxed">
                 Check out some of my work here:
                   <a href="https://www.spatial.io/@ben_56611" target="_blank" title="My Spatial profile" className="text-blue-500 hover:underline"> My Spatial profile</a>
                 </h3>
-                <p className="text-base font-medium leading-relaxed text-body-color mb-2 sm:text-lg sm:leading-relaxed">
+                <p className="text-base leading-relaxed text-body-color mb-2 sm:text-lg sm:leading-relaxed">
                   This can also be found in the Spatial app on the Oculus Quest. Search my profile @ben_56611!
                 </p>
               </div>

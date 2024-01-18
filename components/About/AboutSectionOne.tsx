@@ -39,7 +39,7 @@ const AboutSectionOne = () => {
                 data-wow-delay=".15s"
               >
                 <div className="mx-[-12px] flex flex-wrap">
-                  <div className="w-full sm:w-1/2 md:w-1/2 px-3">
+                  <div className="w-full sm:w-1/2 md:w-1/2 lg:w-3/4 px-3">
                     <List text="Programming I, II, and III (CS 200/300/400)" description="Programming fundamentals; Object-oriented languages (Java), abstract data types and structures, group projects"/>
                     <List text="Machine Organization & Programming (CS 354)" description="Fundamental structures of computer systems, C programming, low-level interrelationships, assembly language"/>
                     <List text="Algorithms (CS 577)" description="Paradigms for efficient algorithms; Greedy, Divide-and-Conquer, Dynamic Programming, Reductions."/>
