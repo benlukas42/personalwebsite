@@ -43,7 +43,7 @@ const Breadcrumb = ({
           </div>
         </div>
 
-        <div>
+        {/* <div>
           <span className="absolute left-0 top-0 z-[-1]">
             <svg
               width="287"
@@ -116,7 +116,7 @@ const Breadcrumb = ({
               </defs>
             </svg>
           </span>
-        </div>
+        </div> */}
       </section>
     </>
   );

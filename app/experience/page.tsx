@@ -17,9 +17,6 @@ const AboutPage = () => {
         pageName="Experience"
         description="Here is a synopsis of my experience in college and in my internship."
       />
-      <div className="items-center">
-        <hr className="w-full border-slate-700"></hr>
-      </div>
       
       <AboutSectionOne />
       <AboutSectionTwo />

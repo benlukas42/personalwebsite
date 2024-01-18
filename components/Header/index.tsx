@@ -56,7 +56,7 @@ const Header = () => {
                   sticky ? "py-5 lg:py-2" : "py-8"
                 } `}
               >
-                <h1 className=" text-2xl font-bold hover:text-gray-700 dark:hover:text-gray-200">
+                <h1 className= "text-2xl font-bold hover:text-gray-700 dark:hover:text-gray-300">
                   Ben's Website
                 </h1>
                 
@@ -117,7 +117,7 @@ const Header = () => {
                             className={`flex py-2 text-base lg:mr-0 lg:inline-flex lg:px-0 lg:py-6 ${
                               usePathName === menuItem.path
                                 ? "text-primary dark:text-primary"
-                                : "text-black hover:text-gray-200 dark:text-white dark:hover:text-gray-200"
+                                : "text-black hover:text-gray-500 dark:text-white dark:hover:text-gray-300"
                             }`}
                           >
                             {menuItem.title}
