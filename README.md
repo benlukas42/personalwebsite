@@ -46,6 +46,6 @@ If you like the template, please star this repository to inspire the team to cre
 ## Added by me:
 To run the site locally, run "npm run dev"
 
-To push a build of the site to Vercel and see it running on the internet, run "git push origin main"
+To push a build of the site to Github and Vercel and see it running on the internet, run "git push origin main"
 
 The site is at benlukas.xyz

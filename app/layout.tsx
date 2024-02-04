@@ -22,7 +22,7 @@ export default function RootLayout({
       */}
       <head />
 
-      <body className={`bg-white dark:bg-black ${inter.className}`}>
+      <body className={`bg-gradient-to-r from-white via-sky-100/50 to-purple-100/50 dark:bg-gradient-to-r dark:from-fuchsia-950/25 dark:via-20% dark:via-dark/100 dark:to-cyan-950/50  ${inter.className}`}>
         <Providers>
           <Header />
           {children}

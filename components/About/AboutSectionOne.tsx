@@ -45,7 +45,7 @@ const AboutSectionOne = () => {
                     <List text="Algorithms (CS 577)" description="Paradigms for efficient algorithms; Greedy, Divide-and-Conquer, Dynamic Programming, Reductions."/>
                     <List text = "Artificial Intellegence (CS 540)" description="Introduction to machine learning and neural networks, programming in Python"/>
                     <List text = "Operating Systems (CS 537)" description="Input-output hardware, interrupt handling, scheduling resource allocation, modular software systems, and more"/>
-                    <List text = "Database Management Systems (CS 564)" description="Relational, hierarchecal, and network database systems. "/>
+                    <List text = "Database Management Systems (CS 564)" description="SQL and Relational, hierarchecal, and network database systems"/>
                   </div>
 
                   {/* <div className="w-full px-3 sm:w-1/2 lg:w-full xl:w-1/2">
