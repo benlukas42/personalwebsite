@@ -24,15 +24,15 @@ const Hero = () => {
                 </p>
               </div>
             </div>
-            <div className="w-1/2">
+            <div className="xs:w-full sm:w-full m:w-1/2 lg:w-1/2 xl:w-1/2">
               <div
-                className="wow fadeInUp mx-auto max-w-[300px] items-center"
+                className="wow fadeInUp mx-auto max-w-[300px]"
                 data-wow-delay=".2s"
               >
                 <Image
-                  //src="https://brand.wisc.edu/content/uploads/2016/11/readability-04.jpg"
-                  src="/images/hero/selfie.jpg"
-                  alt="University of Wisconsin-Madison"
+                  
+                  src="/images/headshot1.jpg"
+                  alt="headshot"
                   className="drop-shadow-three"
                   height="400"
                   width="600"
