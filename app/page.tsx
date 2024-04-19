@@ -11,6 +11,9 @@ import Testimonials from "@/components/Testimonials";
 import Video from "@/components/Video";
 import { Metadata } from "next";
 
+/////  TO RUN THE SITE LOCALLY: run "npm run dev"
+
+
 export const metadata: Metadata = {
   title: "Ben's Personal Website",
   description: "Homepage for my website",
