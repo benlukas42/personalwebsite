@@ -24,7 +24,9 @@ const Contact = () => {
                 <br></br>
                 LinkedIn:
                 <a href="https://www.linkedin.com/in/ben-lukas-473b46260/" title="My LinkedIn Profile" target="_blank" className="text-blue-400 hover:underline"> My LinkedIn Profile</a>
-
+                <br></br>
+                GitHub:
+                <a href="https://github.com/benlukas42" title="My GitHub" target="_blank" className="text-blue-400 hover:underline"> My GitHub</a>
 
               </h3>
             </div>
