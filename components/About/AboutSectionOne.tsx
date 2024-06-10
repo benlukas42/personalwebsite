@@ -30,7 +30,7 @@ const AboutSectionOne = () => {
             <div className="w-full px-4 lg:w-1/2">
               <SectionTitle
                 title="University Experience"
-                paragraph="At the moment, I have one semester left before graduating from UW-Madison with a BS in Computer Science. Here are some relevant and interesting classes I have taken so far:"
+                paragraph="I graduated from UW-Madison with a BS in Computer Science in May 2024. Here are some relevant and interesting classes I have taken so far:"
                 mb="44px"
               />
 

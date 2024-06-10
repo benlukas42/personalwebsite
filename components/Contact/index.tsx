@@ -20,7 +20,7 @@ const Contact = () => {
                 No funny business!
               </p>
               <h3 className="text-black dark:text-white ml-2 leading-10">
-                Email: benlukas42@gmail.com / blukas@wisc.edu
+                Email: benlukas42@gmail.com
                 <br></br>
                 LinkedIn:
                 <a href="https://www.linkedin.com/in/ben-lukas-473b46260/" title="My LinkedIn Profile" target="_blank" className="text-blue-400 hover:underline"> My LinkedIn Profile</a>
