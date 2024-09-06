@@ -30,7 +30,7 @@ const AboutSectionOne = () => {
             <div className="w-full px-4 lg:w-1/2">
               <SectionTitle
                 title="University Experience"
-                paragraph="I graduated from UW-Madison with a BS in Computer Science in May 2024. Here are some relevant and interesting classes I have taken so far:"
+                paragraph="I'm currently studying Computer Science at the University of Wisconsin-Madison, planning on completing my Bachelors in December 2024. Here are some relevant and interesting classes I have taken so far:"
                 mb="44px"
               />
 
@@ -46,6 +46,8 @@ const AboutSectionOne = () => {
                     <List text = "Artificial Intellegence (CS 540)" description="Introduction to machine learning and neural networks, programming in Python"/>
                     <List text = "Operating Systems (CS 537)" description="Input-output hardware, interrupt handling, scheduling resource allocation, modular software systems, and more"/>
                     <List text = "Database Management Systems (CS 564)" description="SQL and Relational, hierarchecal, and network database systems"/>
+                    <List text = "Building User Interfaces (CS 571)" description="Software development of UIs; event-driven interfaces, direct-manipulation interfaces, and dialogue-based interaction"></List>
+                    <List text = "Introduction to Information Security (CS 642)" description="Cryptography, Access Control, OS Security, Network Security, Machine Learning Security, Web Security, and more"></List>
                   </div>
 
                   {/* <div className="w-full px-3 sm:w-1/2 lg:w-full xl:w-1/2">

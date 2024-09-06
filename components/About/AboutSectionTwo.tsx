@@ -34,16 +34,16 @@ const AboutSectionTwo = () => {
                 mb="14px"
               />
                 <p className="text-base leading-relaxed text-body-color mb-4 sm:text-lg sm:leading-relaxed">
-                  I have been an intern for the
+                  From June 2023-April 2024, I was a remote intern for the 
                   <a href="https://www.spacescience.org/index.php" target="_blank" title="Space Science Institute Home Page" className="text-blue-500 hover:underline font-bold"> Space Science Institute </a>
-                   since the summer of 2023.
+                    in Boulder, CO.
                 </p>
 
                 <h3 className="text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
                   Mars in Virtual Reality
                 </h3>
                 <p className="text-base leading-relaxed text-body-color mb-2 sm:text-lg sm:leading-relaxed">
-                  In my internship, I explored the modern landscape of VR development for a browser. Using tools such as Spatial, Unity, Blender, and AFrame, I learned to make VR scenes out of scans of real Martian land and materials.
+                  In my internship, I explored the modern landscape of VR development for browser. Using tools such as Spatial, Unity, Blender, and AFrame, I learned to make VR scenes out of scans of real Martian land and materials.
                 </p>
                 <h3 className="text-m font-bold text-black mb-2 dark:text-white sm:text-l sm:leading-relaxed">
                 Check out some of my work here:

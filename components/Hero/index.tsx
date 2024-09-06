@@ -20,7 +20,7 @@ const Hero = () => {
                   About Me
                 </h1>
                 <p className="dark:text-body-color-dark mb-12 text-base !leading-relaxed text-body-color sm:text-lg md:text-xl">
-                Hi, I'm Ben Lukas! I recently earned my BS in Computer Science from the Univesity of Wisconsin-Madison, and I'm currently seeking employment as a software developer.
+                Hi, I'm Ben Lukas! I'm currently studying Computer Science at the University of Wisconsin-Madison, and I'm seeking employment as a software developer.
                 </p>
               </div>
             </div>
