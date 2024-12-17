@@ -11,11 +11,11 @@ const checkIcon = (
 const AboutSectionOne = () => {
   const List = ({ text , description}) => (
     <div>
-      <h1 className="flex items-center text-lg font-medium text-black dark:text-white">
+      <h1 className="flex items-center text-md font-medium text-black dark:text-white">
         <span className="mr-4 flex h-[5px] w-[20px] items-center justify-center rounded-md bg-primary bg-opacity-20 text-primary"></span>
         {text}
       </h1>
-      <p className="text-left ml-16 indent-6 text-body-color text-md w-100 text-wrap">
+      <p className="text-left ml-12 indent-2 text-body-color text-sm text-wrap">
         {description}
       </p>
     </div>
@@ -30,16 +30,16 @@ const AboutSectionOne = () => {
             <div className="w-full px-4 lg:w-1/2">
               <SectionTitle
                 title="University Experience"
-                paragraph="I'm currently studying Computer Science at the University of Wisconsin-Madison, planning on completing my Bachelors in December 2024. Here are some relevant and interesting classes I have taken so far:"
+                paragraph="As of December 2024, I have completed my B.S. in Computer Science at the University of Wisconsin-Madison! Here are the most interesting and relevant classes I have taken:"
                 mb="44px"
               />
 
               <div
-                className="wow fadeInUp mb-12 lg:mb-0 w-max"
+                className="wow fadeInUp mb-12 lg:mb-0"
                 data-wow-delay=".15s"
               >
                 <div className="mx-[-12px] flex flex-wrap">
-                  <div className="w-full sm:w-100 md:w-1/2 lg:w-3/4 px-3">
+                  <div className="w-full">
                     <List text="Programming I, II, and III (CS 200/300/400)" description="Programming fundamentals; Object-oriented languages (Java), abstract data types and structures, group projects"/>
                     <List text="Machine Organization & Programming (CS 354)" description="Fundamental structures of computer systems, C programming, low-level interrelationships, assembly language"/>
                     <List text="Algorithms (CS 577)" description="Paradigms for efficient algorithms; Greedy, Divide-and-Conquer, Dynamic Programming, Reductions."/>
@@ -49,12 +49,6 @@ const AboutSectionOne = () => {
                     <List text = "Building User Interfaces (CS 571)" description="Software development of UIs; event-driven interfaces, direct-manipulation interfaces, and dialogue-based interaction"></List>
                     <List text = "Introduction to Information Security (CS 642)" description="Cryptography, Access Control, OS Security, Network Security, Machine Learning Security, Web Security, and more"></List>
                   </div>
-
-                  {/* <div className="w-full px-3 sm:w-1/2 lg:w-full xl:w-1/2">
-                    <List text="Next.js" />
-                    <List text="Rich documentation" />
-                    <List text="Developer friendly" />
-                  </div> */}
                 </div>
               </div>
             </div>

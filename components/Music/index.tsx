@@ -28,7 +28,7 @@ const Music = () => {
                 By the way, I use FL Studio 21.
               </p>
               <p className="py-4 font-semibold text-base text-black dark:text-white text-md text-center italic">
-                Working on getting another demo out in 2024!
+                Working on getting another demo out in 2025!
               </p>
             </div>
           </div>

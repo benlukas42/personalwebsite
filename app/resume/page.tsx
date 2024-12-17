@@ -21,7 +21,7 @@ const Blog = () => {
       <section className="pb-[60px] pt-[60px]">
         <div className="container">
           <div className="-mx-4 flex flex-wrap justify-center">
-            <embed src="/Professional Resume.pdf" width="1000" height="700" type="application/pdf"></embed>
+            <embed src="/ProfessionalResume12-2024.pdf" width="1000" height="700" type="application/pdf"></embed>
           </div>
         </div>
       </section>
